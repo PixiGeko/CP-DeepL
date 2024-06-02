@@ -1,0 +1,5 @@
+/node_modules
+/.idea
+
+.coda.json
+.coda-credentials.json
